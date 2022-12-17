@@ -1,8 +1,8 @@
 # Classifying Human Voices
 These descriptions will be updated over time.
 
-#Dataset
+## Dataset
 
-#Feature Extraction
+## Feature Extraction
 
-#Classifying
+## Classifying
