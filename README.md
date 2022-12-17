@@ -1,5 +1,5 @@
 # Classifying Human Voices
-These descriptions will be updated over time.
+These sections will be updated over time.
 
 ## Dataset
 
